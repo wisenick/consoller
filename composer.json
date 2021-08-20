@@ -1,0 +1,14 @@
+{
+    "name": "mrwisenick/consoller",
+    "description": "php cli lib",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mrwisenick\\Consoller\\": "src/Mrwisenick/Consoller"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php-di/php-di": "dev-master"
+    }
+}
